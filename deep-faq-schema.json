@@ -1,0 +1,88 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Potomac basements need special soundproofing for home theaters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Potomac basements often have concrete walls and low ceilings that carry sound upstairs. Adding acoustic insulation, carpet padding, and door seals reduces noise bleed while improving audio quality. Proper soundproofing ensures family comfort and prevents HOA noise complaints."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do HOA rules in neighborhoods like Avenel or River Falls affect home theater installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Potomac HOAs don’t restrict interior projects, but some require electrical permits, licensed contractors, or proof of compliance with noise standards. We handle HOA approvals, ensuring your installation meets neighborhood guidelines while preserving home value."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ceiling heights work best for Dolby Atmos in Potomac homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dolby Atmos performs best in rooms with 9–10 foot ceilings. Standard 8-foot basements can still support Atmos using wall-mounted or angled in-ceiling speakers. Homes with 10+ foot ceilings allow advanced Atmos setups with precise overhead sound placement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need permits for home theater electrical work in Montgomery County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. While mounting speakers and screens doesn’t require permits, adding circuits or outlets does. We use licensed electricians to secure permits and meet Montgomery County code, protecting your investment and ensuring safe installation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you work around support beams or columns in Potomac basements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural columns are common in colonial basements. We integrate them into seating layouts, wrap them with acoustic treatment, or conceal them in millwork. This turns obstacles into design features without sacrificing sight lines or sound quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the typical installation timeline for a premium home theater in Potomac?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most premium theaters take 3–5 days to complete. Basic media rooms can be finished in 1–2 days, while luxury projects with custom seating, risers, and acoustic treatments may take a full week. We schedule to minimize disruption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does adding a home theater increase resale value in Potomac’s luxury market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. In Potomac’s high-end market, dedicated theaters can add $15,000–$25,000 to resale value. Buyers see theaters as luxury amenities that distinguish homes. Properly designed systems with smart integration appeal strongly to tech-savvy buyers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should a home theater system be recalibrated for best performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once a year is ideal. Seasonal changes in humidity and furniture placement affect acoustics. Annual recalibration ensures accurate sound, balanced bass, and consistent performance. Luxury systems benefit from ongoing professional service contracts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a projector or OLED TV better for Potomac basements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Projectors with 100–120 inch screens deliver a true cinema feel in dark basements. OLED TVs offer brighter images and better contrast in multipurpose rooms with ambient light. The right choice depends on room lighting and entertainment goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is upgrading from 7.1.4 to 9.1.6 Dolby Atmos worth it in a dedicated theater?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most basements, 7.1.4 is sufficient. In larger dedicated theaters, 9.1.6 adds extra surround and overhead channels, improving immersion. The upgrade is worthwhile if your room exceeds 18×24 feet and you want reference-level cinematic performance."
+      }
+    }
+  ]
+}
+</script>

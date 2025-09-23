@@ -1,0 +1,103 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1920" height="1080" fill="#0a2227"/>
+  
+  <!-- Floor -->
+  <rect x="0" y="800" width="1920" height="280" fill="#1a3a4a"/>
+  
+  <!-- Back Wall -->
+  <rect x="0" y="0" width="1920" height="800" fill="#14444E"/>
+  
+  <!-- Projection Screen -->
+  <rect x="400" y="100" width="1120" height="630" rx="10" fill="#000000"/>
+  <rect x="420" y="120" width="1080" height="590" rx="5" fill="#2a4a5a"/>
+  
+  <!-- Screen Content (Movie Scene) -->
+  <rect x="450" y="150" width="1020" height="530" fill="#8b7355"/>
+  <text x="960" y="400" text-anchor="middle" fill="#F0EDCC" font-family="Arial" font-size="24" font-weight="bold">THE GOOD, THE BAD AND THE UGLY</text>
+  
+  <!-- Left Speaker -->
+  <rect x="200" y="200" width="40" height="400" rx="5" fill="#000000"/>
+  <rect x="210" y="210" width="20" height="20" rx="10" fill="#14444E"/>
+  <rect x="210" y="250" width="20" height="20" rx="10" fill="#14444E"/>
+  <rect x="210" y="290" width="20" height="20" rx="10" fill="#14444E"/>
+  
+  <!-- Right Speaker -->
+  <rect x="1680" y="200" width="40" height="400" rx="5" fill="#000000"/>
+  <rect x="1690" y="210" width="20" height="20" rx="10" fill="#14444E"/>
+  <rect x="1690" y="250" width="20" height="20" rx="10" fill="#14444E"/>
+  <rect x="1690" y="290" width="20" height="20" rx="10" fill="#14444E"/>
+  
+  <!-- Center Channel Speaker -->
+  <rect x="700" y="750" width="520" height="40" rx="5" fill="#000000"/>
+  
+  <!-- Theater Seating Rows -->
+  <!-- Row 1 -->
+  <rect x="300" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="400" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="500" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="600" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="700" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="800" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="900" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1000" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1100" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1200" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1300" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1400" y="850" width="80" height="60" rx="5" fill="#8b4513"/>
+  
+  <!-- Row 2 (Elevated) -->
+  <rect x="350" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="450" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="550" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="650" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="750" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="850" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="950" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1050" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1150" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1250" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1350" y="820" width="80" height="60" rx="5" fill="#8b4513"/>
+  
+  <!-- Row 3 (More Elevated) -->
+  <rect x="400" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="500" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="600" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="700" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="800" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="900" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1000" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1100" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1200" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  <rect x="1300" y="790" width="80" height="60" rx="5" fill="#8b4513"/>
+  
+  <!-- Wood Paneling -->
+  <rect x="0" y="0" width="200" height="800" fill="#2a3a2a"/>
+  <rect x="1720" y="0" width="200" height="800" fill="#2a3a2a"/>
+  
+  <!-- Windows with Curtains -->
+  <rect x="50" y="200" width="100" height="300" fill="#1a2a1a"/>
+  <rect x="1770" y="200" width="100" height="300" fill="#1a2a1a"/>
+  
+  <!-- Wall Sconces -->
+  <circle cx="150" cy="300" r="15" fill="#F0EDCC"/>
+  <circle cx="1770" cy="300" r="15" fill="#F0EDCC"/>
+  
+  <!-- Ceiling -->
+  <rect x="0" y="0" width="1920" height="100" fill="#0a1a1a"/>
+  
+  <!-- Recessed Lights -->
+  <circle cx="300" cy="50" r="20" fill="#F0EDCC"/>
+  <circle cx="600" cy="50" r="20" fill="#F0EDCC"/>
+  <circle cx="900" cy="50" r="20" fill="#F0EDCC"/>
+  <circle cx="1200" cy="50" r="20" fill="#F0EDCC"/>
+  <circle cx="1500" cy="50" r="20" fill="#F0EDCC"/>
+  <circle cx="1800" cy="50" r="20" fill="#F0EDCC"/>
+  
+  <!-- Crystal Chandelier -->
+  <circle cx="960" cy="80" r="30" fill="#F0EDCC"/>
+  
+  <!-- Popcorn Machine Area -->
+  <rect x="100" y="750" width="80" height="100" fill="#2a2a2a"/>
+  <rect x="110" y="760" width="60" height="80" fill="#4a4a4a"/>
+</svg>

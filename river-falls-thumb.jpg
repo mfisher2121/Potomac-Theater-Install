@@ -1,0 +1,44 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#F0EDCC"/>
+  
+  <!-- Floor -->
+  <rect x="0" y="300" width="600" height="100" fill="#E8E0C0"/>
+  
+  <!-- Back Wall -->
+  <rect x="0" y="0" width="600" height="300" fill="#14444E"/>
+  
+  <!-- Large TV -->
+  <rect x="100" y="60" width="400" height="240" rx="8" fill="#000000"/>
+  <rect x="110" y="70" width="380" height="220" rx="4" fill="#2a4a5a"/>
+  
+  <!-- TV Content -->
+  <rect x="130" y="90" width="340" height="180" fill="#4a6a7a"/>
+  <text x="300" y="180" text-anchor="middle" fill="#F0EDCC" font-family="Arial" font-size="16" font-weight="bold">Great Room Integration</text>
+  
+  <!-- Media Console -->
+  <rect x="150" y="300" width="300" height="30" rx="5" fill="#0a2227"/>
+  
+  <!-- Fireplace -->
+  <rect x="50" y="200" width="40" height="100" fill="#2a2a2a"/>
+  <rect x="55" y="205" width="30" height="90" fill="#4a2a2a"/>
+  
+  <!-- Seating Area -->
+  <rect x="80" y="320" width="80" height="50" rx="5" fill="#8b4513"/>
+  <rect x="180" y="320" width="80" height="50" rx="5" fill="#8b4513"/>
+  <rect x="280" y="320" width="80" height="50" rx="5" fill="#8b4513"/>
+  <rect x="380" y="320" width="80" height="50" rx="5" fill="#8b4513"/>
+  <rect x="480" y="320" width="80" height="50" rx="5" fill="#8b4513"/>
+  
+  <!-- Coffee Table -->
+  <rect x="200" y="300" width="200" height="20" rx="3" fill="#2a3a2a"/>
+  
+  <!-- Modern Lighting -->
+  <circle cx="300" cy="40" r="20" fill="#F0EDCC"/>
+  <circle cx="150" cy="40" r="12" fill="#F0EDCC"/>
+  <circle cx="450" cy="40" r="12" fill="#F0EDCC"/>
+  
+  <!-- Windows -->
+  <rect x="20" y="100" width="60" height="150" fill="#E8E0C0"/>
+  <rect x="520" y="100" width="60" height="150" fill="#E8E0C0"/>
+</svg>
